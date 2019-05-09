@@ -2,8 +2,7 @@
 A Sage/Cython implementation of a method for computing Jacobi forms
 
 
-These are data computed using the method described in <a href="http://arxiv.org/abs/1602.07021">Computing Jacobi Forms</a> by Ryan, Sirolli, Skoruppa and Tornar&iacute;a.  The Sage/Cython code can be downloaded <a href="code.tar.gz">here</a>.    
-<p>
+These are data computed using the method described in <a href="http://arxiv.org/abs/1602.07021">Computing Jacobi Forms</a> by Ryan, Sirolli, Skoruppa and Tornar&iacute;a.  
 
 These first forms are to show that we can compute both skew-holomorphic and holomorphic Jacobi modular forms and that the result is independent of the choice of <i>m</i>-admissible pair.<br><p>
 <a href="forms/wt_2_ind_11_sign_p_pair_5_7.txt">Weight 2 Index 11 Skew-holomorphic, <i>m</i>-admissible (5,7)</a><br>
